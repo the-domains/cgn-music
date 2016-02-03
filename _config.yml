@@ -1,0 +1,28 @@
+name: CGN-MUSIC
+favicon: null
+layout_spectrum: 0.13056049263104796
+typography_spectrum: 0.7078554641921073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6749220855999738
+  lightness: 0.8551814353559166
+  saturation: 0.8709924523718655
+  rhythmicContrast: 0.7827631204854697
+purpose: []
